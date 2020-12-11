@@ -1,21 +1,21 @@
 <data>
 	<Randomizer>
-		<randomizer counter="1" id="13120104">
+		<randomizer counter="1" id="13120105">
 			<parts>
-				<l id="13120104" partId="13120104" probability="0.5" type="Wall">
+				<l id="13120105" partId="13120105" probability="0.5" type="Wall">
 					<newCorners />
 					<walls>
 						<l probability="1.0" x="-1" y="-5">
-							<full aid="6wall-blue-T1-2" />
-							<small aid="6wall-blue-B1" />
+							<full aid="6wall-green-T1-2" />
+							<small aid="6wall-green-B1" />
 						</l>
 						<l probability="1.0" x="-1" y="-5">
-							<full aid="6wall-blue-T1-3" />
-							<small aid="6wall-blue-B1" />
+							<full aid="6wall-green-T1-3" />
+							<small aid="6wall-green-B1" />
 						</l>
 						<l probability="1.0" x="-1" y="-5">
-							<full aid="6wall-blue-T1-4" />
-							<small aid="6wall-blue-B1" />
+							<full aid="6wall-green-T1-4" />
+							<small aid="6wall-green-B1" />
 						</l>
 					</walls>
 				</l>
@@ -23,46 +23,46 @@
 		</randomizer>
 	</Randomizer>
 	<Element>
-		<me alternateY="false" costGroup="866" ec="1" mid="13120104" nonSymmetrical="false" offsetRot="R0">
+		<me alternateY="false" costGroup="866" ec="1" mid="13120105" nonSymmetrical="false" offsetRot="R0">
 			<data>
 				<l eid="1" gridOffX="0" gridOffY="0" layer="0" type="Wall">
 					<element fullLight="false" id="0" lightValue="Wall" playAnimation="false" walkGridCost="255">
 						<definedStates>
 							<l state="Standby" x="-1" y="-5">
-								<full aid="6wall-blue-T1" />
-								<small aid="6wall-blue-B1" />
+								<full aid="6wall-green-T1" />
+								<small aid="6wall-green-B1" />
 								<corners>
 									<l cx="1" cy="-5" type="Side">
-										<corner aid="6wall-blue-T6" />
-										<cornerSmall aid="6wall-blue-B6" />
+										<corner aid="6wall-green-T6" />
+										<cornerSmall aid="6wall-green-B6" />
 									</l>
 									<l cx="1" cy="-5" type="TDown">
-										<corner aid="6wall-blue-T7T" />
-										<cornerSmall aid="6wall-blue-B7T" />
+										<corner aid="6wall-green-T7T" />
+										<cornerSmall aid="6wall-green-B7T" />
 									</l>
 									<l cx="1" cy="-5" type="TUp">
-										<corner aid="6wall-blue-T3T" />
-										<cornerSmall aid="6wall-blue-B3T" />
+										<corner aid="6wall-green-T3T" />
+										<cornerSmall aid="6wall-green-B3T" />
 									</l>
 									<l cx="-1" cy="-5" type="Cross">
-										<corner aid="6wall-blue-T5" />
-										<cornerSmall aid="6wall-blue-B5" />
+										<corner aid="6wall-green-T5" />
+										<cornerSmall aid="6wall-green-B5" />
 									</l>
 									<l cx="-1" cy="-5" type="Bottom">
-										<corner aid="6wall-blue-T2" />
-										<cornerSmall aid="6wall-blue-B2" />
+										<corner aid="6wall-green-T2" />
+										<cornerSmall aid="6wall-green-B2" />
 									</l>
 									<l cx="-1" cy="-5" type="Top">
-										<corner aid="6wall-blue-T8" />
-										<cornerSmall aid="6wall-blue-B8" />
+										<corner aid="6wall-green-T8" />
+										<cornerSmall aid="6wall-green-B8" />
 									</l>
 									<l cx="-1" cy="-5" type="TopD1">
-										<corner aid="6wall-blue-TD8A" />
-										<cornerSmall aid="6wall-blue-BD8A" />
+										<corner aid="6wall-green-TD8A" />
+										<cornerSmall aid="6wall-green-BD8A" />
 									</l>
 									<l cx="0" cy="-5" type="TopD2">
-										<corner aid="6wall-blue-TD8B" />
-										<cornerSmall aid="6wall-blue-BD8B" />
+										<corner aid="6wall-green-TD8B" />
+										<cornerSmall aid="6wall-green-BD8B" />
 									</l>
 								</corners>
 							</l>
@@ -75,7 +75,7 @@
 			<objectInfo buildInstant="false" debugOnly="false" disableAirlockTest="false" disableBuildTest="false" disableRotation="false" placeInMenu="1" systemPoints="0" viewMode="Normal">
 				<name tid="170" />
 				<desc tid="171" />
-				<guiIcon aid="6wall-blue-icon" />
+				<guiIcon aid="6wall-green-icon" />
 				<subCat id="1522" />
 				<difficultyLevel level="1" skill="Construction" />
 			</objectInfo>
