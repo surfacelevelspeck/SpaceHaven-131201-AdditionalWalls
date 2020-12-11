@@ -1,0 +1,136 @@
+<data>
+	<Randomizer>
+		<randomizer counter="1" id="13120103">
+			<parts>
+				<l id="13120103" partId="13120103" probability="0.5" type="Wall">
+					<newCorners />
+					<walls>
+						<l probability="1.0" x="-1" y="-5">
+							<full aid="2wall-red-T1" />
+							<small aid="2wall-red-B1" />
+						</l>
+						<l probability="1.0" x="-1" y="-5">
+							<full aid="2wall-red-T1-2" />
+							<small aid="2wall-red-B1" />
+						</l>
+						<l probability="1.0" x="-1" y="-5">
+							<full aid="2wall-red-T1-3" />
+							<small aid="2wall-red-B1" />
+						</l>
+						<l probability="1.0" x="-1" y="-5">
+							<full aid="2wall-red-T1-4" />
+							<small aid="2wall-red-B1" />
+						</l>
+						<l probability="1.0" x="-1" y="-5">
+							<full aid="2wall-red-T1-5" />
+							<small aid="2wall-red-B1" />
+						</l>
+						<l probability="1.0" x="-1" y="-5">
+							<full aid="2wall-red-T1-6" />
+							<small aid="2wall-red-B1" />
+						</l>
+						<l probability="1.0" x="-1" y="-5">
+							<full aid="2wall-red-T1-7" />
+							<small aid="2wall-red-B1" />
+						</l>
+						<l probability="1.0" x="-1" y="-5">
+							<full aid="2wall-red-T1-8" />
+							<small aid="2wall-red-B1" />
+						</l>
+						<l probability="1.0" x="-1" y="-5">
+							<full aid="2wall-red-T1" />
+							<small aid="2wall-red-B1-2" />
+						</l>
+						<l probability="1.0" x="-1" y="-5">
+							<full aid="2wall-red-T1-2" />
+							<small aid="2wall-red-B1-2" />
+						</l>
+						<l probability="1.0" x="-1" y="-5">
+							<full aid="2wall-red-T1-3" />
+							<small aid="2wall-red-B1-2" />
+						</l>
+						<l probability="1.0" x="-1" y="-5">
+							<full aid="2wall-red-T1-4" />
+							<small aid="2wall-red-B1-2" />
+						</l>
+						<l probability="1.0" x="-1" y="-5">
+							<full aid="2wall-red-T1-5" />
+							<small aid="2wall-red-B1-2" />
+						</l>
+						<l probability="1.0" x="-1" y="-5">
+							<full aid="2wall-red-T1-6" />
+							<small aid="2wall-red-B1-2" />
+						</l>
+						<l probability="1.0" x="-1" y="-5">
+							<full aid="2wall-red-T1-7" />
+							<small aid="2wall-red-B1-2" />
+						</l>
+						<l probability="1.0" x="-1" y="-5">
+							<full aid="2wall-red-T1-8" />
+							<small aid="2wall-red-B1-2" />
+						</l>
+					</walls>
+				</l>
+			</parts>
+		</randomizer>
+	</Randomizer>
+	<Element>
+		<me alternateY="false" costGroup="866" ec="1" mid="13120103" nonSymmetrical="false" offsetRot="R0">
+			<data>
+				<l eid="1" gridOffX="0" gridOffY="0" layer="0" type="Wall">
+					<element fullLight="false" id="0" lightValue="Wall" playAnimation="false" walkGridCost="255">
+						<definedStates>
+							<l state="Standby" x="-1" y="-5">
+								<full aid="2wall-red-T1" />
+								<small aid="2wall-red-B1" />
+								<corners>
+									<l cx="1" cy="-5" type="Side">
+										<corner aid="2wall-red-T6" />
+										<cornerSmall aid="2wall-red-B6" />
+									</l>
+									<l cx="1" cy="-5" type="TDown">
+										<corner aid="2wall-red-T7T" />
+										<cornerSmall aid="2wall-red-B7T" />
+									</l>
+									<l cx="1" cy="-5" type="TUp">
+										<corner aid="2wall-red-T3T" />
+										<cornerSmall aid="2wall-red-B3T" />
+									</l>
+									<l cx="-1" cy="-5" type="Cross">
+										<corner aid="2wall-red-T5" />
+										<cornerSmall aid="2wall-red-B5" />
+									</l>
+									<l cx="-1" cy="-5" type="Bottom">
+										<corner aid="2wall-red-T2" />
+										<cornerSmall aid="2wall-red-B2" />
+									</l>
+									<l cx="-1" cy="-5" type="Top">
+										<corner aid="2wall-red-T8" />
+										<cornerSmall aid="2wall-red-B8" />
+									</l>
+									<l cx="-1" cy="-5" type="TopD1">
+										<corner aid="2wall-red-TD8A" />
+										<cornerSmall aid="2wall-red-BD8A" />
+									</l>
+									<l cx="0" cy="-5" type="TopD2">
+										<corner aid="2wall-red-TD8B" />
+										<cornerSmall aid="2wall-red-BD8B" />
+									</l>
+								</corners>
+							</l>
+						</definedStates>
+					</element>
+				</l>
+			</data>
+			<linked/>
+			<events/>
+			<objectInfo buildInstant="false" debugOnly="false" disableAirlockTest="false" disableBuildTest="false" disableRotation="false" placeInMenu="1" systemPoints="0" viewMode="Normal">
+				<name tid="170" />
+				<desc tid="171" />
+				<guiIcon aid="2wall-red-icon" />
+				<subCat id="1522" />
+				<difficultyLevel level="1" skill="Construction" />
+			</objectInfo>
+		</me>
+	</Element>
+</data>
