@@ -22,22 +22,6 @@
 							<small aid="2wall-red-B1" />
 						</l>
 						<l probability="1.0" x="-1" y="-5">
-							<full aid="2wall-red-T1-5" />
-							<small aid="2wall-red-B1" />
-						</l>
-						<l probability="1.0" x="-1" y="-5">
-							<full aid="2wall-red-T1-6" />
-							<small aid="2wall-red-B1" />
-						</l>
-						<l probability="1.0" x="-1" y="-5">
-							<full aid="2wall-red-T1-7" />
-							<small aid="2wall-red-B1" />
-						</l>
-						<l probability="1.0" x="-1" y="-5">
-							<full aid="2wall-red-T1-8" />
-							<small aid="2wall-red-B1" />
-						</l>
-						<l probability="1.0" x="-1" y="-5">
 							<full aid="2wall-red-T1" />
 							<small aid="2wall-red-B1-2" />
 						</l>
@@ -51,22 +35,6 @@
 						</l>
 						<l probability="1.0" x="-1" y="-5">
 							<full aid="2wall-red-T1-4" />
-							<small aid="2wall-red-B1-2" />
-						</l>
-						<l probability="1.0" x="-1" y="-5">
-							<full aid="2wall-red-T1-5" />
-							<small aid="2wall-red-B1-2" />
-						</l>
-						<l probability="1.0" x="-1" y="-5">
-							<full aid="2wall-red-T1-6" />
-							<small aid="2wall-red-B1-2" />
-						</l>
-						<l probability="1.0" x="-1" y="-5">
-							<full aid="2wall-red-T1-7" />
-							<small aid="2wall-red-B1-2" />
-						</l>
-						<l probability="1.0" x="-1" y="-5">
-							<full aid="2wall-red-T1-8" />
 							<small aid="2wall-red-B1-2" />
 						</l>
 					</walls>

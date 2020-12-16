@@ -10,7 +10,7 @@
 				</b>
 			</bones>
 			<items>
-				<assetPos a="1312010101" bi="0" r="0" sx="1" sy="1" vf="1:1" x="0" y="0" />
+				<assetPos filename="2wall/blue/2wall-blue-t1" bi="0" r="0" sx="1" sy="1" vf="1:1" x="0" y="0" />
 			</items>
 		</ba>
 		<ba f="30" id="1312010102" ks="1" n="2wall-blue-B1">
@@ -22,7 +22,7 @@
 				</b>
 			</bones>
 			<items>
-				<assetPos a="1312010102" bi="0" r="0" sx="1" sy="1" vf="1:1" x="0" y="0" />
+				<assetPos filename="2wall/blue/2wall-blue-b1" bi="0" r="0" sx="1" sy="1" vf="1:1" x="0" y="0" />
 				<assetPos a="715" bi="0" r="0" sx="1" sy="1" vf="1:1" x="-32" y="-23" />
 			</items>
 		</ba>
@@ -36,7 +36,7 @@
 				</b>
 			</bones>
 			<items>
-				<assetPos a="1312010103" bi="0" r="0" sx="1" sy="1" vf="1:1" x="0" y="0" />
+				<assetPos filename="2wall/blue/2wall-blue-t2" bi="0" r="0" sx="1" sy="1" vf="1:1" x="0" y="0" />
 			</items>
 		</ba>
 		<ba f="30" id="1312010104" ks="1" n="2wall-blue-B2">
@@ -48,7 +48,7 @@
 				</b>
 			</bones>
 			<items>
-				<assetPos a="1312010104" bi="0" r="0" sx="1" sy="1" vf="1:1" x="0" y="0" />
+				<assetPos filename="2wall/blue/2wall-blue-b2" bi="0" r="0" sx="1" sy="1" vf="1:1" x="0" y="0" />
 				<assetPos a="715" bi="0" r="0" sx="1" sy="1" vf="1:1" x="-32" y="-23" />
 				<assetPos a="715" bi="0" r="0" sx="-1" sy="1" vf="1:1" x="-34" y="-23" />
 				<assetPos a="1475" bi="0" r="0" sx="1" sy="1" vf="1:1" x="1" y="-28" />
@@ -64,7 +64,7 @@
 				</b>
 			</bones>
 			<items>
-				<assetPos a="1312010105" bi="0" r="0" sx="1" sy="1" vf="1:1" x="0" y="0" />
+				<assetPos filename="2wall/blue/2wall-blue-t8" bi="0" r="0" sx="1" sy="1" vf="1:1" x="0" y="0" />
 			</items>
 		</ba>
 		<ba f="30" id="1312010106" ks="1" n="2wall-blue-B8">
@@ -76,7 +76,7 @@
 				</b>
 			</bones>
 			<items>
-				<assetPos a="1312010106" bi="0" r="0" sx="1" sy="1" vf="1:1" x="0" y="0" />
+				<assetPos filename="2wall/blue/2wall-blue-b8" bi="0" r="0" sx="1" sy="1" vf="1:1" x="0" y="0" />
 			</items>
 		</ba>
 		<!-- Side Corner -->
@@ -89,7 +89,7 @@
 				</b>
 			</bones>
 			<items>
-				<assetPos a="1312010107" bi="0" r="0" sx="1" sy="1" vf="1:1" x="0" y="0" />
+				<assetPos filename="2wall/blue/2wall-blue-t6" bi="0" r="0" sx="1" sy="1" vf="1:1" x="0" y="0" />
 			</items>
 		</ba>
 		<ba f="30" id="1312010108" ks="1" n="2wall-blue-B6">
@@ -101,7 +101,7 @@
 				</b>
 			</bones>
 			<items>
-				<assetPos a="1312010108" bi="0" r="0" sx="1" sy="1" vf="1:1" x="0" y="0" />
+				<assetPos filename="2wall/blue/2wall-blue-b6" bi="0" r="0" sx="1" sy="1" vf="1:1" x="0" y="0" />
 				<assetPos a="715" bi="0" r="0" sx="-1" sy="1" vf="1:1" x="-32" y="-23" />
 			</items>
 		</ba>
@@ -115,7 +115,7 @@
 				</b>
 			</bones>
 			<items>
-				<assetPos a="1312010109" bi="0" r="0" sx="1" sy="1" vf="1:1" x="0" y="0" />
+				<assetPos filename="2wall/blue/2wall-blue-t7t" bi="0" r="0" sx="1" sy="1" vf="1:1" x="0" y="0" />
 			</items>
 		</ba>
 		<ba f="30" id="1312010110" ks="1" n="2wall-blue-B7T">
@@ -127,7 +127,7 @@
 				</b>
 			</bones>
 			<items>
-				<assetPos a="1312010110" bi="0" r="0" sx="1" sy="1" vf="1:1" x="1" y="-1" />
+				<assetPos filename="2wall/blue/2wall-blue-b7t" bi="0" r="0" sx="1" sy="1" vf="1:1" x="1" y="-1" />
 			</items>
 		</ba>
 		<!-- T-Intersection Up -->
@@ -140,7 +140,7 @@
 				</b>
 			</bones>
 			<items>
-				<assetPos a="1312010111" bi="0" r="0" sx="1" sy="1" vf="1:1" x="0" y="0" />
+				<assetPos filename="2wall/blue/2wall-blue-t3t" bi="0" r="0" sx="1" sy="1" vf="1:1" x="0" y="0" />
 			</items>
 		</ba>
 		<ba f="30" id="1312010112" ks="1" n="2wall-blue-B3T">
@@ -152,7 +152,7 @@
 				</b>
 			</bones>
 			<items>
-				<assetPos a="1312010112" bi="0" r="0" sx="1" sy="1" vf="1:1" x="0" y="0" />
+				<assetPos filename="2wall/blue/2wall-blue-b3t" bi="0" r="0" sx="1" sy="1" vf="1:1" x="0" y="0" />
 				<assetPos a="715" bi="0" r="0" sx="-1" sy="1" vf="1:1" x="-32" y="-23" />
 			</items>
 		</ba>
@@ -166,7 +166,7 @@
 				</b>
 			</bones>
 			<items>
-				<assetPos a="1312010113" bi="0" r="0" sx="1" sy="1" vf="1:1" x="0" y="0" />
+				<assetPos filename="2wall/blue/2wall-blue-t5" bi="0" r="0" sx="1" sy="1" vf="1:1" x="0" y="0" />
 			</items>
 		</ba>
 		<ba f="30" id="1312010114" ks="1" n="2wall-blue-B5">
@@ -178,7 +178,7 @@
 				</b>
 			</bones>
 			<items>
-				<assetPos a="1312010114" bi="0" r="0" sx="1" sy="1" vf="1:1" x="-1" y="0" />
+				<assetPos filename="2wall/blue/2wall-blue-b5" bi="0" r="0" sx="1" sy="1" vf="1:1" x="-1" y="0" />
 			</items>
 		</ba>
 		<!-- Diagonal Narrow -->
@@ -191,7 +191,7 @@
 				</b>
 			</bones>
 			<items>
-				<assetPos a="1312010115" bi="0" r="0" sx="1" sy="1" vf="1:1" x="0" y="0" />
+				<assetPos filename="2wall/blue/2wall-blue-td8a" bi="0" r="0" sx="1" sy="1" vf="1:1" x="0" y="0" />
 			</items>
 		</ba>		
 		<ba f="30" id="1312010116" ks="1" n="2wall-blue-BD8A">
@@ -203,7 +203,7 @@
 				</b>
 			</bones>
 			<items>
-				<assetPos a="1312010116" bi="0" r="0" sx="1" sy="1" vf="1:1" x="0" y="0" />
+				<assetPos filename="2wall/blue/2wall-blue-bd8a" bi="0" r="0" sx="1" sy="1" vf="1:1" x="0" y="0" />
 				<assetPos a="1643" bi="0" r="0" sx="1" sy="1" vf="1:1" x="2" y="-27" />
 			</items>
 		</ba>
@@ -217,7 +217,7 @@
 				</b>
 			</bones>
 			<items>
-				<assetPos a="1312010117" bi="0" r="0" sx="1" sy="1" vf="1:1" x="0" y="0" />
+				<assetPos filename="2wall/blue/2wall-blue-td8b" bi="0" r="0" sx="1" sy="1" vf="1:1" x="0" y="0" />
 			</items>
 		</ba>
 		<ba f="30" id="1312010118" ks="1" n="2wall-blue-BD8B">
@@ -229,7 +229,7 @@
 				</b>
 			</bones>
 			<items>
-				<assetPos a="1312010118" bi="0" r="0" sx="1" sy="1" vf="1:1" x="0" y="0" />
+				<assetPos filename="2wall/blue/2wall-blue-bd8b" bi="0" r="0" sx="1" sy="1" vf="1:1" x="0" y="0" />
 				<assetPos a="1310" bi="0" r="0" sx="1" sy="1" vf="1:1" x="0" y="-10" />
 			</items>
 		</ba>
@@ -244,7 +244,7 @@
 				</b>
 			</bones>
 			<items>
-				<assetPos a="1312010121" bi="0" r="0" sx="1" sy="1" vf="1:1" x="0" y="0" />
+				<assetPos filename="2wall/blue/2wall-blue-t1-2" bi="0" r="0" sx="1" sy="1" vf="1:1" x="0" y="0" />
 				<assetPos a="633" bi="0" r="0" sx="1" sy="1" vf="1:1" x="-4" y="-6" />
 				<assetPos a="634" bi="0" r="0" sx="1" sy="1" vf="1:1" x="-4" y="-27" />
 			</items>
@@ -258,7 +258,7 @@
 				</b>
 			</bones>
 			<items>
-				<assetPos a="1312010101" bi="0" r="0" sx="1" sy="1" vf="1:1" x="0" y="0" />
+				<assetPos filename="2wall/blue/2wall-blue-t1-3" bi="0" r="0" sx="1" sy="1" vf="1:1" x="0" y="0" />
 				<assetPos a="520" bi="0" r="0" sx="1" sy="1" vf="1:1" x="-8" y="-8" />
 			</items>
 		</ba>
@@ -271,59 +271,10 @@
 				</b>
 			</bones>
 			<items>
-				<assetPos a="1312010101" bi="0" r="0" sx="1" sy="1" vf="1:1" x="0" y="0" />
+				<assetPos filename="2wall/blue/2wall-blue-t1-4" bi="0" r="0" sx="1" sy="1" vf="1:1" x="0" y="0" />
 				<assetPos a="520" bi="0" r="0" sx="1" sy="1" vf="1:1" x="-8" y="-8" />
 				<assetPos a="633" bi="0" r="0" sx="1" sy="1" vf="1:0" x="-4" y="-27" />
 				<assetPos a="634" bi="0" r="0" sx="1" sy="1" vf="1:1" x="-4" y="-27" />
-			</items>
-		</ba>
-		<ba f="30" id="1312010122" ks="1" n="2wall-blue-T1-5">
-			<bones>
-				<b id="0">
-					<pos>
-						<p col="-1" f="1" r="0" sx="1" sy="1" x="0" y="43" />
-					</pos>
-				</b>
-			</bones>
-			<items>
-				<assetPos a="1312010101" bi="0" r="0" sx="1" sy="1" vf="1:1" x="0" y="0" />
-				<assetPos a="633" bi="0" r="0" sx="1" sy="1" vf="1:1" x="-4" y="-6" />
-			</items>
-		</ba>
-		<ba f="30" id="1312010123" ks="1" n="2wall-blue-T1-6">
-			<bones>
-				<b id="0">
-					<pos>
-						<p col="-1" f="1" r="0" sx="1" sy="1" x="0" y="43" />
-					</pos>
-				</b>
-			</bones>
-			<items>
-				<assetPos a="1312010120" bi="0" r="0" sx="1" sy="1" vf="1:1" x="0" y="0" />
-			</items>
-		</ba>
-		<ba f="30" id="1312010124" ks="1" n="2wall-blue-T1-7">
-			<bones>
-				<b id="0">
-					<pos>
-						<p col="-1" f="1" r="0" sx="1" sy="1" x="0" y="43" />
-					</pos>
-				</b>
-			</bones>
-			<items>
-				<assetPos a="1312010122" bi="0" r="0" sx="1" sy="1" vf="1:1" x="0" y="0" />
-			</items>
-		</ba>
-		<ba f="30" id="1312010125" ks="1" n="2wall-blue-T1-8">
-			<bones>
-				<b id="0">
-					<pos>
-						<p col="-1" f="1" r="0" sx="1" sy="1" x="0" y="43" />
-					</pos>
-				</b>
-			</bones>
-			<items>
-				<assetPos a="1312010121" bi="0" r="0" sx="1" sy="1" vf="1:1" x="0" y="0" />
 			</items>
 		</ba>
 		<ba f="30" id="1312010126" ks="1" n="2wall-blue-B1-2">
@@ -335,7 +286,7 @@
 				</b>
 			</bones>
 			<items>
-				<assetPos a="1312010119" bi="0" r="0" sx="1" sy="1" vf="1:1" x="0" y="0" />
+				<assetPos filename="2wall/blue/2wall-blue-b1-2" bi="0" r="0" sx="1" sy="1" vf="1:1" x="0" y="0" />
 				<assetPos a="715" bi="0" r="0" sx="1" sy="1" vf="1:1" x="-32" y="-23" />
 			</items>
 		</ba>
@@ -350,7 +301,7 @@
 				</b>
 			</bones>
 			<items>
-				<assetPos a="1312010100" bi="0" r="0" sx="1" sy="1" vf="1:1" x="0" y="0" />
+				<assetPos filename="2wall/blue/2wall-blue-gui" bi="0" r="0" sx="1" sy="1" vf="1:1" x="0" y="0" />
 			</items>
 		</ba>
 	</animations>

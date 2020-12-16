@@ -1,14 +1,14 @@
 <mod>
-	<name>Additional Wall Colours</name>
+	<modid>131201</modid>
+	<name>Additional Walls</name>
 	<description>Adds additional colour combinations to several of the walls:
 
 Wall 2 (Dark grey with orange stripes): Blue, Green, Red
 Wall 6 (White with red stripes): Blue, Green, Orange
 	</description>
-	<!-- Planned: Long range nodes: long connection link, low power range -->
-	<minimumLoaderVersion>0.8.1</minimumLoaderVersion>
+	<minimumLoaderVersion>0.9.0a2</minimumLoaderVersion>
 	<gameVersions>
 		<v>0.10.2</v>
 	</gameVersions>
-	<version>0.1.0</version>
+	<version>0.2.1</version>
 </mod>
